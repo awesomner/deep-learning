@@ -1,0 +1,15 @@
+/intro-to-pytorch/Cat_Dog_data
+/intro-to-pytorch/__pychache__
+/intro-to-pytorch/.ipynb_checkpoints
+/convolutional-neural-networks/mnist-mlp/.ipynb_checkpoints
+/convolutional-neural-networks/mnist-mlp/__pychache__
+/convolutional-neural-networks/conv-visualization/.ipynb_checkpoints
+/convolutional-neural-networks/conv-visualization/__pychache__
+/convolutional-neural-networks/cifar-cnn/.ipynb_checkpoints
+/convolutional-neural-networks/cifar-cnn/__pychache__
+/Bike-sharing/.ipynb_checkpoints
+/Bike-sharing/__pychache__
+*/__pychache__
+*/.ipynb_checkpoints
+*/Cat_Dog_data
+*/data
